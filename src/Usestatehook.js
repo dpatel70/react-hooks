@@ -1,8 +1,15 @@
+import { useState, useReducer } from "react"
+
+
 const Usestatehook = () => {
+     
+
 
     return(
         <div>
-          hello
+     
+
+         
         </div>
     )
 }
